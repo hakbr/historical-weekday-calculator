@@ -1,4 +1,4 @@
-# historical-weekday-calculator
+# Weekday Determination Script
 A script to find historical weekdays based on a date
 
 Weekday Determination Script
